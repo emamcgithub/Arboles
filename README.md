@@ -1,5 +1,5 @@
-# Arboles
-EA-08-Practicas-3
+# EA-08-Practicas-3
+Arboles
 
 ## Integrantes
   - Daniel Jesus Solis Zuñiga
